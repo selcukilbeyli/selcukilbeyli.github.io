@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Selçuk İlbeyli</title>
+    <link>https://selcukilbeyli.github.io/</link>
+    <description>Recent content on Selçuk İlbeyli</description>
+    <generator>Hugo</generator>
+    <language>tr</language>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://selcukilbeyli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing Knot Invariants</title>
+      <link>https://selcukilbeyli.github.io/projects/knot-visualization/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://selcukilbeyli.github.io/projects/knot-visualization/</guid>
+      <description>Jones Polinomlarını görselleştiren bir Python aracı üzerine çalışma.</description>
+    </item>
+    <item>
+      <title>Hakkımda</title>
+      <link>https://selcukilbeyli.github.io/about/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://selcukilbeyli.github.io/about/</guid>
+      <description>&lt;h3 id=&#34;merhaba-ben-selçuk-ilbeyli&#34;&gt;Merhaba, Ben Selçuk İlbeyli&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;İzmir Yüksek Teknoloji Enstitüsü (İYTE)&lt;/strong&gt; Matematik Bölümü&amp;rsquo;nde akademik yolculuğuma devam ediyorum. Soyut yapıların ardındaki somut mantığı ve görsel estetiği keşfetmeyi seviyorum.&lt;/p&gt;
+&lt;h4 id=&#34;araştırma-alanlarım&#34;&gt;Araştırma Alanlarım&lt;/h4&gt;
+&lt;p&gt;Temel odak noktam &lt;strong&gt;Combinatorial Knot Theory&lt;/strong&gt; (Kombinatoryal Düğüm Teorisi). Düğümlerin diyagramatik temsilleri, Jones polinomları ve düğüm değişmezleri (invariants) üzerine yoğunlaşıyorum. Topolojinin bu spesifik alanı, karmaşık yapıları sonlu ve algoritmik yöntemlerle inceleme imkanı sunduğu için ilgimi çekiyor.&lt;/p&gt;
+&lt;h4 id=&#34;akademik-vizyonum&#34;&gt;Akademik Vizyonum&lt;/h4&gt;
+&lt;p&gt;Matematiksel teorileri sadece kağıt üzerinde bırakmayıp, onları dijital dünyada (Python veya benzeri araçlarla) görselleştirmek ve literatüre özgün katkılar sunmak temel hedefim.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Combinatorial Invariants of Virtual Knots</title>
+      <link>https://selcukilbeyli.github.io/publications/ilk-calismam/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://selcukilbeyli.github.io/publications/ilk-calismam/</guid>
+      <description>Bu çalışma, sanal düğümlerin kombinatoryal yapıları üzerindeki yeni değişmezleri incelemektedir.</description>
+    </item>
+    <item>
+      <title>İletişim</title>
+      <link>https://selcukilbeyli.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://selcukilbeyli.github.io/contact/</guid>
+      <description>&lt;h3 id=&#34;akademik-iletişim&#34;&gt;Akademik İletişim&lt;/h3&gt;
+&lt;p&gt;Akademik çalışmalarım, &lt;strong&gt;Kombinatoryal Düğüm Teorisi&lt;/strong&gt; üzerine yürüttüğüm projeler veya olası iş birlikleri hakkında benimle iletişime geçebilirsiniz.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;E-posta:&lt;/strong&gt; &lt;a href=&#34;mailto:selcukilbeyli@iyte.edu.tr&#34;&gt;selcukilbeyli@iyte.edu.tr&lt;/a&gt; &lt;em&gt;(Kurumsal)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ofis:&lt;/strong&gt; İYTE Matematik Bölümü, Urla, İzmir&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;dijital-ağlarım&#34;&gt;Dijital Ağlarım&lt;/h3&gt;
+&lt;p&gt;Projelerimi takip etmek veya profesyonel ağımda yer almak isterseniz aşağıdaki platformlardan bana ulaşabilirsiniz:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://linkedin.com/in/selcukilbeyli&#34;&gt;LinkedIn&lt;/a&gt;&lt;/strong&gt; - Profesyonel özgeçmiş ve ağ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/selcukilbeyli&#34;&gt;GitHub&lt;/a&gt;&lt;/strong&gt; - Açık kaynaklı matematiksel kodlar ve projeler.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com/&#34;&gt;Google Scholar&lt;/a&gt;&lt;/strong&gt; - Akademik yayın takibi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Not:&lt;/strong&gt; Genellikle 24 saat içerisinde e-postalara dönüş yapmaktayım.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
