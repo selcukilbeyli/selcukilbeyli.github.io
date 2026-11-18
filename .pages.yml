@@ -1,0 +1,47 @@
+
+media:
+  input: media
+  output: /media
+  rename: safe
+
+content:
+  - name: quick_notes
+    label: Quick Notes
+    type: collection
+    path: notes
+    format: yaml-frontmatter
+    exclude: [README.md]
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      primary: title
+      fields: [title, date, tags]
+      sort: date
+      order: desc
+    fields:
+      - name: title
+        label: Note title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: tags
+        label: Tags
+        type: string
+      - name: summary
+        label: Short summary
+        type: text
+      - name: published
+        label: Show on website
+        type: boolean
+      - name: image
+        label: Image
+        type: image
+      - name: attachment
+        label: PDF or file
+        type: file
+      - name: body
+        label: Mathematical note
+        type: rich-text
+        required: true
