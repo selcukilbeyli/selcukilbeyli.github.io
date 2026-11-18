@@ -5,4 +5,8 @@ tags: "\tTest"
 summary: Testing the Quick Notes publishing system.
 published: true
 ---
-\[ F(K_1\#K_2)=F(K_1)F(K_2) \]
+$$
+
+F(K_1\#K_2)=F(K_1)F(K_2)
+
+$$
